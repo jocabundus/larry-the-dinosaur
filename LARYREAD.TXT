@@ -1,0 +1,105 @@
+>>>DELTA CODE>>>
+    >>>PRESENTS>>>      LARRY THE DINOSAUR
+
+                        December, 2000 Created by Joe King
+
+==============================================================================
+
+-  CONTROLS>>>
+
+               = LEFT
+               = RIGHT
+               = UP
+               = DOWN
+           CTRL = SHOOT
+            ALT = jump
+
+==============================================================================
+
+-  STORY>>>
+
+                Year, 65000 B.C., aliens are invading the earth.  Larry, a
+           dinosaur and your team of five other dinosaurs have been assigned
+           to rid these aliens of the face of the earth.  You and your team
+           go into the mountains where the aliens started to invade.  You
+           fight them, but every once in a while a team member would die by
+           getting eaten by rockmonsters, mutilated by jelly blobs, guts
+           getting sqeezed out by dangerous plants, or stepping on blobs that
+           detanate when you step on them. Larry is the only one left. He
+           must finish the job.  It may seem like a suicide mission, but if
+           anybody can do it, Larry can, or will he?
+
+                Meanwhile, two dinosaurs, Matt and Gary, are hiking in the
+           mountains that the aliens are invading.  They discover some of
+           Larry's team members dead, and the hideous creatures that killed
+           them.  They are now trying to escape off of the mountain before
+           they die.  Will they make it Alive?
+
+                On the aliens side, Xenophobe is the leader of them all.  He
+           has the command of all the aliens.  If you destroy him, you won
+           the battle, but have you won the war?
+                
+                Your just going to have to play the game to see how this
+           epic story ends.  Can you survive the horror?
+
+==============================================================================
+
+-  ALIENS>>>
+
+  Rockmonster - These guys will follow you where ever you go, they
+                might be hard to kill, or easy, or you can jump over them in
+                some cases.  You touch these guys and they will consume you
+                horribaly.
+
+  Blob Mine   - These are little purple blobs that will explode if
+                you touch them, so be careful.
+
+  Jelly Blob  - Floating jelly fish type of things.  Their tentacles will
+                multilate you in seconds.  These Jelly Blobs are stong, so
+                if you can jump over them with out dieing, do it.  It's alot
+                better than using up 5 to 10 good shots.
+
+  Venus
+  Dinosaur    - These will grab a hold of you and sqeeze the guts out of you.
+  Trap          Be sure not to touch them; however, you have a chance of it       
+                not grabbing you, but I wouldn't take that chance.
+
+==============================================================================
+
+-  THE GAME>>>
+
+                There are three epsiodes to this game.  Episode 1 - Escape
+              From The Mountains,  Episode 2 - Mexico Shootout (I know there
+              was no mexico back then, but hey, sounds good to me!), and
+              Episode 3 - Xenophobe Must Die.
+
+                Each episode gets harder as you go along.  You don't have
+              much ammo, so your going to have to use you jump in some cases.
+              Preserve your ammo for when you need it.  If you can survive
+              jumping over something than shooting it, jump over it.  Some
+              aliens you can't kill, like the blob mines and plants.  Jump
+              over those.  Be careful, you can walk into an ambush, be aware.
+
+==============================================================================
+
+- CREDITS>>>
+
+                Programming       Graphics
+                -----------       --------
+                 Joe King         Joe King
+                             Daniel King(He made the Jelly Blob)
+
+	          Testers     Member of Delta Code	
+                -----------   --------------------  
+
+                Joe King      	     YES	CONTACT:   Joek@w.millard.k12.ut.us
+                James Heath          YES	
+                Ben Black            NO
+                Steven Degutis       NO
+                Daniel King          NO
+
+		Special Thanks:	Pixel Plus 256
+
+==============================================================================
+
+			THANKS FOR PLAYING!!!
